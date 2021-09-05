@@ -1,0 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+
+
+.container {
+  display: block;
+  color: rgb(255, 166, 94);
+}
+.text {
+  font-size: 70px;
+  position: absolute;
+  top: 12rem;
+  left: 14rem;
+}
+.dud {
+  color: rgb(255, 166, 94);
+}
+
